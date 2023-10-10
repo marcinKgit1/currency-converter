@@ -8,5 +8,9 @@ html {
 
 .body {
     font-family: 'Lato', sans-serif;
+    background-image: url("../css/images/money.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
