@@ -46,3 +46,7 @@
     border-radius: 10px;
     padding: 10px;
 }
+
+.js-result {
+    color: white;
+}
